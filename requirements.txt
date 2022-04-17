@@ -1,0 +1,8 @@
+coverage==6.3.2
+Flask==2.1.1
+Flask-Caching==1.10.1
+pydantic==1.9.0
+python-dotenv==0.20.0
+requests==2.27.1
+typing_extensions==4.1.1
+pycountry==22.3.5
